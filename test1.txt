@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 2C6E-60EB
-
- Directory of C:\Users\ASUS\Desktop\MyProject
-
-08-11-2020  01:39 PM    <DIR>          .
-08-11-2020  01:39 PM    <DIR>          ..
-08-11-2020  01:39 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  150,584,389,632 bytes free
+test1.txt
